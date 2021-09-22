@@ -18,7 +18,7 @@ http://localhost:8080
 
 ### Formato
 
-O formato esperado de um produto é o seguinte:
+O formato esperado da lista é o seguinte:
 
 ```javascript
   [
