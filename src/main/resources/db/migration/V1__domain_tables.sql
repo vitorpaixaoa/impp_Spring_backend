@@ -1,4 +1,3 @@
-CREATE DATABASE IF NOT EXISTS impp_db ;
 
 CREATE TABLE users
 (
